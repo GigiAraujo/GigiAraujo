@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4b0081&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá👋,+Meu+nome+é+Matheus+Lucindo;Eu+tenho+17+anos+de+idade;Eu+sou+de+São+Paulo,+SP;Eu+estudo+Desenvolvimento+de+Sistemas+no+SENAI;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá👋,+Meu+nome+é+Giovanna+Araujo;Eu+sou+de+São+Paulo,+SP;+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
@@ -19,7 +19,6 @@
 ### Plataformas que eu utilizo:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0078D4&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Netlify](https://img.shields.io/badge/Netlify-0D1117?style=for-the-badge&logo=netlify&logoColor=29f7ff)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-0D1117?&style=for-the-badge&logo=Canva&logoColor=29f7ff)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-0D1117?style=for-the-badge&logo=notion&logoColor=FFFFFF)&nbsp;
@@ -37,8 +36,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React - Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Yacc](https://img.shields.io/badge/Yacc-0D1117?style=for-the-badge&logo=Yacc&logoColor=ffffff)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Estou estudando neste momento:
